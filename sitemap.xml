@@ -23,26 +23,26 @@
 	
 	<url>
 		<loc>https://example.com/my-site/about/</loc>
-		<lastmod>2025-03-10</lastmod>
+		<lastmod>2025-03-11</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://example.com/my-site/blog/</loc>
-		<lastmod>2025-03-10</lastmod>
+		<lastmod>2025-03-11</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://example.com/my-site/</loc>
-		<lastmod>2025-03-10</lastmod>
+		<lastmod>2025-03-11</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://example.com/my-site/tags/</loc>
-		<lastmod>2025-03-10</lastmod>
+		<lastmod>2025-03-11</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://example.com/my-site/feed/feed.json</loc>
-		<lastmod>2025-03-10</lastmod>
+		<lastmod>2025-03-11</lastmod>
 	</url>
 </urlset>
