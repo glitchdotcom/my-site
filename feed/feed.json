@@ -4,7 +4,7 @@
   "language": "en",
   "home_page_url": "https://glitchdotcom.github.io/my-site/",
   "feed_url": "https://glitchdotcom.github.io/my-site/feed/feed.json",
-  "description": "I am writing about my experiences as a naval navel-gazer.",
+  "description": "An example 11ty blog website for experimenting with Fastly Compute.",
   "authors": [
     {
       "name": "Your Name"
