@@ -62,11 +62,11 @@ export default async function(eleventyConfig) {
 		},
 		metadata: {
 			language: "en",
-			title: "Blog Title",
+			title: "Jennifer Blog",
 			subtitle: "This is a longer description about your blog.",
-			base: "https://glitchdotcom.github.io/",
+			base: "https://lomojean.github.io/",
 			author: {
-				name: "Your Name"
+				name: "Jennifer Fleming"
 			}
 		}
 	});
