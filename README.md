@@ -11,7 +11,8 @@ You can make your own version of this site and deploy it to GitHub Pages for use
 * Create a `gh-pages` branch
 * In your repo **Settings** in the **Pages** section choose `Deploy from a branch` and select the `gh-pages` branch
 * Watch the **Actions** for your deployment status – deployment should run whenever you make a change on the `main` branch
-* Your site will be at `your-github-username.github.io/my-site/` or at the same path as the name you gave the repo
+  * Your site will be at `your-github-username.github.io/my-site/` or at the same path as the name you gave the repo
+  * _You can also change the site details in `_data/metadata.js` if you like_
 
 💡 You can use the site with the following Fastly starter kits:
 
