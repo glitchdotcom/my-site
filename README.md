@@ -6,6 +6,7 @@ You can make your own version of this site and deploy it to GitHub Pages for use
 
 * Fork the repo
 * In the `eleventy.config.js` feed section `eleventyConfig.addPlugin(feedPlugin...` change the `metadata` `base` value to your own GitHub IO domain
+* In the `package.json` file, change the two references to `my-site` to your repo name
 * Edit the file `.github/workflows/gh-pages.yml.sample` to change its name to `.github/workflows/gh-pages.yml`
 * Create a `gh-pages` branch
 * In your repo **Settings** in the **Pages** section choose `Deploy from a branch` and select the `gh-pages` branch
