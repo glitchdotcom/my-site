@@ -14,12 +14,16 @@ You can make your own version of this site and deploy it to GitHub Pages for use
   * Your site will be at `your-github-username.github.io/my-site/` or at the same path as the name you gave the repo
   * _You can also change the site details in `_data/metadata.js` if you like_
 
+**🎒 Check out the tutorials on using this site with Fastly Compute:**
+
+* **[Build edge data into your apps](https://www.fastly.com/documentation/solutions/tutorials/kv-hit-counter/)**
+* **[Enhance an 11ty site at the edge](https://dev.to/fastly/enhance-an-11ty-site-at-the-edge-5cgc)**
+
 💡 You can use the site with the following Fastly starter kits:
 
+* [11ty feed page](https://github.com/glitchdotcom/11ty-feed) to build an HTML page from the JSON feed
 * [Hit counter](https://github.com/glitchdotcom/hit-counter/) to count hits and make a stats page with KV Store
-* [Feed and hit counter](https://github.com/glitchdotcom/11ty-feed-hits/) that adds a synthetic feed page to the mix
-
-⏲️ _Stay tuned for tutorials that demonstrate how to use this site._
+* [Feed and hit counter](https://github.com/glitchdotcom/11ty-feed-hits/) to combine the hit counter and feed
 
 > This repo is a fork of the [Eleventy Base Blog](https://demo-base-blog.11ty.dev/) – readme for it included below...
 
