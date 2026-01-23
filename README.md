@@ -22,7 +22,7 @@ You can make your own version of this site and deploy it to GitHub Pages for use
 💡 You can use the site with the following Fastly starter kits:
 
 * [11ty feed page](https://github.com/glitchdotcom/11ty-feed) to build an HTML page from the JSON feed
-* [Hit counter](https://github.com/glitchdotcom/hit-counter/) to count hits and make a stats page with KV Store
+* [Hit counter](https://github.com/fastly/hit-counter/) to count hits and make a stats page with KV Store
 * [Feed and hit counter](https://github.com/glitchdotcom/11ty-feed-hits/) to combine the hit counter and feed
 
 > This repo is a fork of the [Eleventy Base Blog](https://demo-base-blog.11ty.dev/) – readme for it included below...
@@ -114,7 +114,6 @@ Or you can run [debug mode](https://www.11ty.dev/docs/debugging/) to see all the
 - [Netlify](https://eleventy-base-blog.netlify.app/)
 - [Vercel](https://demo-base-blog.11ty.dev/)
 - [Cloudflare Pages](https://eleventy-base-blog-d2a.pages.dev/)
-- [Remix on Glitch](https://glitch.com/~11ty-eleventy-base-blog)
 - [GitHub Pages](https://11ty.github.io/eleventy-base-blog/)
 
 ## Deploy this to your own site
